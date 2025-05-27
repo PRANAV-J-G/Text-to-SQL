@@ -54,4 +54,7 @@ streamlit run app.py
 ## Future Improvements 
 - Support for multiple tables and joins 
 - History of queries and responses 
-- User authentication 
+- User authentication
+
+## Try it out 
+https://pranav-j-g-text-to-sql--app-jatauo.streamlit.app/
